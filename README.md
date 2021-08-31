@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : mohit1630.be20@chitkara.edu.in
+- 💖 Website : https://mohitxmalik.github.io
 
 <!---
 mohitxmalik/mohitxmalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
